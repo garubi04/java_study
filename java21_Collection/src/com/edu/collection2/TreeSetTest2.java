@@ -4,11 +4,11 @@ import java.util.Set;
 import java.util.TreeSet;
 
 /*
- Set
+  Set
    |
  HashSet
    |
-  TreeSet(중복 X, 정렬) 
+ TreeSet(중복 X, 정렬) 
  */
 public class TreeSetTest2 {
 	public static void main(String[] args) {
